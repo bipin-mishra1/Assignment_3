@@ -1,0 +1,15 @@
+E:\C# practical\Practical2_2\bin\Debug\net6.0\Practical2_2.exe
+E:\C# practical\Practical2_2\bin\Debug\net6.0\Practical2_2.deps.json
+E:\C# practical\Practical2_2\bin\Debug\net6.0\Practical2_2.runtimeconfig.json
+E:\C# practical\Practical2_2\bin\Debug\net6.0\Practical2_2.dll
+E:\C# practical\Practical2_2\bin\Debug\net6.0\ref\Practical2_2.dll
+E:\C# practical\Practical2_2\bin\Debug\net6.0\Practical2_2.pdb
+E:\C# practical\Practical2_2\obj\Debug\net6.0\Practical2_2.csproj.AssemblyReference.cache
+E:\C# practical\Practical2_2\obj\Debug\net6.0\Practical2_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practical\Practical2_2\obj\Debug\net6.0\Practical2_2.AssemblyInfoInputs.cache
+E:\C# practical\Practical2_2\obj\Debug\net6.0\Practical2_2.AssemblyInfo.cs
+E:\C# practical\Practical2_2\obj\Debug\net6.0\Practical2_2.csproj.CoreCompileInputs.cache
+E:\C# practical\Practical2_2\obj\Debug\net6.0\Practical2_2.dll
+E:\C# practical\Practical2_2\obj\Debug\net6.0\ref\Practical2_2.dll
+E:\C# practical\Practical2_2\obj\Debug\net6.0\Practical2_2.pdb
+E:\C# practical\Practical2_2\obj\Debug\net6.0\Practical2_2.genruntimeconfig.cache
